@@ -19,4 +19,4 @@ This macro only activates while playing maps and has no effect in the menu or on
 ## Install
 This mod is used with [MelonLoader](https://github.com/LavaGang/MelonLoader).\
 Mod dependency: [BBModMenu](https://github.com/MiaouZart/BBModMenu)\
-You may also get this mod on Thunderstore.
+You may also get this mod on [Thunderstore](https://thunderstore.io/c/beton-brutal/p/Beton_Bros/JumpMacro/).
